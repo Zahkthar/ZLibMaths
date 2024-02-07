@@ -1,8 +1,8 @@
-#include "matrix.h"
-
 #include <stdio.h>
 #include <string.h>
 #include <assert.h>
+
+#include "matrix.h"
 
 // +--------------------------+
 // | Matrix creation and free |

@@ -3,11 +3,7 @@
 
 #include <stdlib.h>
 
-typedef struct Matrix {
-    size_t n; // Rows
-    size_t m; // Cols
-    double *data;
-} Matrix;
+#include "structs.h"
 
 // +--------------------------+
 // | Matrix creation and free |
