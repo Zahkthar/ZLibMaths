@@ -1,0 +1,6 @@
+# IDE folders
+.vscode/
+
+# Build
+.xmake/
+build/
